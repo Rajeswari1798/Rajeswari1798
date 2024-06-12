@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data & Business Analyst
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on Data Visualization and programming in R and python
-- 📫 How to reach me rajeswari1798@Gmail.com
+- 📫 How to reach me rajeswari1798@gmail.com
 - 😄 Pronouns: Raji
 - ⚡ Fun fact: ...
 
